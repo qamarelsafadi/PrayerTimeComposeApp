@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HiltComposeStore</string>
+    <string name="title">23 Sep 2022 || Safar 27, 1444 AH</string>
+    <string name="fajr">Fajr</string>
+    <string name="fajr_time">5:10 AM</string>
+    <string name="time_until">Time until next prayer is : 1 hour 3 minutes</string>
+    <string name="duhur">Duhur</string>
+    <string name="duhur_time">12:34 PM</string>
+    <string name="asr">Asr</string>
+    <string name="asr_time">4:01 PM</string>
+    <string name="magharib">Maghrib</string>
+    <string name="magharib_time">6:36 PM</string>
+    <string name="isha">Isha</string>
+    <string name="isha_time">7:53 PM</string>
+    <string name="city">Gaza Strip, Palestine</string>
+</resources>
